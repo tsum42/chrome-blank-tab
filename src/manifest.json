@@ -1,0 +1,8 @@
+{
+  "name": "Chrome Blank Tab",
+  "description": "Opens new chrome tabs as blank pages",
+  "version": "1.0",
+  "incognito": "split",
+  "chrome_url_overrides": { "newtab": "blanktab.html" },
+  "manifest_version": 2
+}
